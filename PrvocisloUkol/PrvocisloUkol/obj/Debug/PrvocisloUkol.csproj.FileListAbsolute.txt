@@ -1,0 +1,11 @@
+G:\prg\PrvocisloUkol\PrvocisloUkol\bin\Debug\PrvocisloUkol.exe.config
+G:\prg\PrvocisloUkol\PrvocisloUkol\bin\Debug\PrvocisloUkol.exe
+G:\prg\PrvocisloUkol\PrvocisloUkol\bin\Debug\PrvocisloUkol.pdb
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.csproj.AssemblyReference.cache
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.csproj.SuggestedBindingRedirects.cache
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.Form1.resources
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.Properties.Resources.resources
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.csproj.GenerateResource.cache
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.csproj.CoreCompileInputs.cache
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.exe
+G:\prg\PrvocisloUkol\PrvocisloUkol\obj\Debug\PrvocisloUkol.pdb
